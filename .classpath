@@ -20,8 +20,10 @@
 	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/cucumber-junit-2.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/cucumber-jvm-deps-1.0.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/cucumber-reporting-3.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/gherkin-4.1.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/gherkin-4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cocof/Desktop/Cucumber/tag-expressions-1.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

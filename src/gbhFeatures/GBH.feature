@@ -1,6 +1,6 @@
 Feature: GBH Automation (Test)
 Description: GBH Automation for main website links 
-
+@GBHAutomation
 Scenario: Navigate all main links on http://gbh.com.do
 Given user is on GBH Main page 
 Then user goes to Services page 

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.00553">
+<testcase classname="GBH Automation (Test)" name="Navigate all main links on http://gbh.com.do" time="0.00553">
+<skipped><![CDATA[Given user is on GBH Main page..............................................undefined
+Then user goes to Services page.............................................undefined
+Then user goes Portfolio page...............................................undefined
+Then user goes to About Us page.............................................undefined
+Then user goes to Jobs page.................................................undefined
+Then user goes to Blog page.................................................undefined
+And goes back to main page..................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
